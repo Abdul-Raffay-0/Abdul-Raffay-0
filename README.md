@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Raffay<br><br>I am interested in Backend and Devops<br><br>Reasonably comfortable with frontend side of things as well<br><br>I am Currently Learning Nodejs and FastApi<br><br>I am open to work on backend and fullstack opportunities<br><br>Reach me out at : AbdulRaffay.Bashir@gmail.com
+Hey, I am Raffay<br><br>I am interested in Backend and Devops<br><br>I have 1.5 Years of professional experience in backend development<br><br>Reasonably comfortable with Frontend side of things as well<br><br>I am Currently Learning Nodejs and FastApi<br><br>I am open to work on backend and fullstack opportunities<br><br>Reach me out at : AbdulRaffay.Bashir@gmail.com
 
 
 # 💻 Tech Stack:
