@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hey, I am Raffay<br><br>I am interested in Backend Engineering <br><br>I have 1.5 Years of professional experience in backend development<br><br>Reasonably comfortable with Frontend side of things as well<br><br>I am Currently Learning Nodejs and FastApi<br><br>I am open to work on backend and fullstack opportunities<br><br>Reach me out at : AbdulRaffay.Bashir@gmail.com
+#💫 About Me
+Hey, I'm Abdul Raffay – a Backend Engineer passionate about building scalable, high-performance systems.
+
+🔹 Experience: 2+ years in backend development, currently a DevOps Contractor at Visualystics.
+🔹 Tech Stack: Go, Node.js, FastAPI, PostgreSQL, MongoDB, Redis, WebSockets, AWS, Docker, CI/CD, NGINX, and more.
+🔹 Interests: Backend engineering, distributed systems, DevOps, system design, networking, and cloud computing.
+🔹 Frontend: Comfortable with React, Tailwind CSS, and integrating APIs.
+
+🚀 What I'm Working On:
+
+Building a portfolio of backend, cloud, and DevOps projects to showcase scalable architectures.
+
+Learning advanced system design==
+
+📬 Let's Connect:
+I'm open to backend and full-stack opportunities worldwide. Reach out at AbdulRaffay.Bashir@gmail.com.
 
 
 
