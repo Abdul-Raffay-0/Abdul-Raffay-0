@@ -1,4 +1,4 @@
-#💫 About Me
+💫 About Me
 Hey, I'm Abdul Raffay – a Backend Engineer passionate about building scalable, high-performance systems.
 
 🔹 Experience: 2+ years in backend development, currently a DevOps Contractor at Visualystics.
