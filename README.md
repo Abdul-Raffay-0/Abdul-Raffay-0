@@ -1,31 +1,151 @@
-💫 About Me
-Hey, I'm Abdul Raffay – a Backend Engineer passionate about building scalable, high-performance systems.
+<div align="center">
 
-🔹 Experience: 2+ years in backend development, currently a DevOps Contractor at Visualystics.
-🔹 Tech Stack: Go, Node.js, FastAPI, PostgreSQL, MongoDB, Redis, WebSockets, AWS, Docker, CI/CD, NGINX, and more.
-🔹 Interests: Backend engineering, distributed systems, DevOps, system design, networking, and cloud computing.
-🔹 Frontend: Comfortable with React, Tailwind CSS, and integrating APIs.
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abdul+Rafay+%F0%9F%91%8B;AWS+Solutions+Architect;DevOps+Engineer;I+fix+production+at+3AM+so+you+don't+have+to" alt="Typing SVG" />
 
-🚀 What I'm Working On:
+<br/>
 
-Building a portfolio of backend, cloud, and DevOps projects to showcase scalable architectures.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=180&section=header&text=&fontSize=0" width="100%"/>
 
-Learning advanced system design==
+</div>
 
-📬 Let's Connect:
-I'm open to backend and full-stack opportunities worldwide. Reach out at AbdulRaffay.Bashir@gmail.com.
+## 👨‍💻 About Me
 
+I'm a **Cloud Architect & DevOps Engineer** based in Pakistan (APAC), open to relocating to the EU. I design, deploy, and rescue AWS infrastructure — from serverless pipelines to 173-bucket cross-account replication setups for SaaS platforms serving clients like **Novartis, Roche, and UBS**.
 
+- 🔭 Currently freelancing as an **AWS Solutions Architect & DevOps Engineer** on Upwork
+- ☁️ Core stack: **AWS** (Lambda, S3, ECS Fargate, RDS, IAM, EventBridge) + **Python / Go / Node.js**
+- 🚨 I like production incidents — restored a 3.8GB image library in under an hour, traced a 15-day silent data-loss bug to a rogue cron job in 6
+- 🐛 I've had bug fixes merged into upstream open-source projects (**Forem**, **RedAmon**) — sometimes by the founder themselves
+- 📜 **AWS Certified Solutions Architect – Associate** · **AWS Certified DevOps Engineer – Professional** · **ISC2 CC**
+- 📫 Reach me at **Rafay@abdulrafay.tech**
 
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Abdul-Raffay-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Raffay-0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Raffay-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=Abdul-Raffay-0&icon=0&color=0)](https://visitcount.itsvg.in)
+**Cloud & Infra**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**CI/CD & Monitoring**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🚀 Highlighted Engagements
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 DocLift — Swiss SaaS (Novartis, Roche, UBS)
+Architected cross-account S3 replication across **173 bucket pairs / 206K+ objects (~140GB)**. Built a 5-script Python/boto3 automation suite, deployed an EventBridge → Lambda pipeline for new tenants, and later traced a silent 15-day data-loss incident to a rogue cron job in **6 hours** using delete-marker forensics.
+
+`AWS S3` `boto3` `EventBridge` `CloudTrail` `IAM`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Insomniacs.party — Disaster Recovery
+Emergency-recovered a **3.8GB / 200K+ file** image library on a revenue site (~$1K/day) within **one hour**, scripting bulk delete-marker removal and eliminating 80K+ duplicate objects from a sync-plugin bug.
+
+`AWS S3` `Python (boto3)` `Lifecycle Rules` `Glacier`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Confidential — $1M+/day Trading Infra
+Designed least-privilege **IAM + Secrets Manager** architecture for API keys backing $1M+/day in trading exposure. My credential-fetch recommendation was adopted **over** the dev team's own implementation plan.
+
+`Secrets Manager` `IAM` `KMS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔋 ChargeOnSite — EV Charging SaaS
+Audited a **21-service ECS Fargate** environment, cut ECR storage from 3TB → lifecycle-managed (**$89 → $3/mo**), and flagged **$25.9K/year** in optimization opportunities in an out-of-scope cost report.
+
+`ECS Fargate` `ECR` `OpenSearch` `Cost Optimization`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ RedAmon — Security Automation (Cyprus)
+Diagnosed a `service_started` vs `service_healthy` Docker Compose race condition breaking GVM/PostgreSQL on boot. Filed a bug report — **merged upstream within 4 days**.
+
+`Docker Compose` `GVM/OpenVAS` `Neo4j` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Forem — DEV.to's Engine (UK)
+Deployed Forem on DigitalOcean via Fedora CoreOS/Podman, engineered a snapshot-transfer workaround for API-key restrictions, and got a Ruby scoping bug fix **merged into `forem:main` by the founder**.
+
+`Fedora CoreOS` `Podman` `Ansible` `Traefik`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Raffay-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Raffay-0&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Raffay-0&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rafay@abdulrafay.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafay-cloud/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/rafaycloudawsdevops)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulrafay.tech)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=100&section=footer"/>
