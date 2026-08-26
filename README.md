@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%20there%2C%20I%27m%20Abdul%20Rafay;AWS%20Solutions%20Architect;DevOps%20Engineer;I%20fix%20production%20at%203AM%20so%20you%20don%27t%20have%20to" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%20there%2C%20I%27m%20Abdul%20Rafay;AWS%20Solutions%20Architect;DevOps%20Engineer;I%20fix%20production%20at%203AM%20so%20you%20don%27t%20have%20to" alt="Typing SVG" />
 
 <br/>
 
@@ -10,13 +10,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Cloud Architect and DevOps Engineer** based in Pakistan (APAC), open to relocating to the EU. I design, deploy, and rescue AWS infrastructure, from serverless pipelines to 173-bucket cross-account replication setups for SaaS platforms serving clients like **Novartis, Roche, and UBS**.
+I'm a **Cloud Architect and DevOps Engineer** based in Pakistan (APAC), working remotely with clients worldwide and available for onsite roles in the EU. I design, deploy, and rescue AWS infrastructure, from serverless pipelines to 173-bucket cross-account replication setups for SaaS platforms serving clients like **Novartis, Roche, and UBS**.
 
 - 🔭 Currently freelancing as an **AWS Solutions Architect & DevOps Engineer** on Upwork
 - ☁️ Core stack: **AWS** (Lambda, S3, ECS Fargate, RDS, IAM, EventBridge) + **Python / Go / Node.js**
-- 🚨 I like production incidents. Restored a 3.8GB image library in under an hour, and traced a 15-day silent data-loss bug to a rogue cron job in just 6
+- 🚨 I like production incidents. Restored a 3.8GB image library in under an hour, and traced a 15-day silent data-loss bug to a rogue cron job in just 6 hours
 - 🐛 Two of my bug reports made it into upstream open source, one merged by the founder himself (details below)
-- 📜 **AWS Certified Solutions Architect – Associate** · **AWS Certified DevOps Engineer – Professional** · **ISC2 CC**
+- 📜 **AWS Certified Solutions Architect · Associate** · **AWS Certified DevOps Engineer · Professional** · **ISC2 CC**
 - 📫 Reach me at **Rafay@abdulrafay.tech**
 
 <br/>
